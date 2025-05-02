@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vaishali 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=19+y%2Fo+CS+Student;Techie+%7C+Creator+%7C+Dreamer;Learning+MERN+Stack+%28+Blockchain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=19+y%2Fo+CS+Student;Techie+%7C+Creator+%7C+Dreamer;Learning+MERN+Stack+%26+Blockchain" alt="Typing SVG" />
 </p>
 
 ---
