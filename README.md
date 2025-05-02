@@ -7,11 +7,10 @@
 ---
 
 ### 🌟 About Me
-- 🎓 2nd year B.Tech CSE @ MIT-WPU
+- 🎓 Turning problems into programs passionate tech enthusiast driven by the thrill of solving real-world problems through code. Whether it's designing scalable web apps or diving into database systems, I love turning ideas into impact.
 - 🔭 Currently building: DBMS projects | Personal Portfolio | Food & Tech Vlogs
 - 🌱 Learning: MERN Stack, MySQL, Bootstrap, and Blockchain  
 - 💡 Interests: Web Dev, UI/UX, Data Visualization, and EdTech
-- 🎥 Aspiring faceless YouTuber (Vlogs | Tech | Lifestyle)
 - 🧠 Motto: "Code. Create. Communicate."
 
 ---
@@ -46,10 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Modiv2005&theme=radical&hide_border=false" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modiv2005&layout=compact&theme=radical" width="48%" />
-</p>
-
 ---
 
 ### 📬 Connect With Me
@@ -62,4 +57,3 @@
 ---
 
 > ⚡ *“Keep exploring, keep building — the world needs your creativity.”*
-
