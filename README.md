@@ -9,7 +9,7 @@
 ### 🌟 About Me
 - 🎓 Turning problems into programs passionate tech enthusiast driven by the thrill of solving real-world problems through code. Whether it's designing scalable web apps or diving into database systems, I love turning ideas into impact.
 - 🔭 Currently building: DBMS projects | Personal Portfolio | Food & Tech Vlogs
-- 🌱 Learning: MERN Stack, MySQL, Bootstrap, and Blockchain  
+- 🌱 Learning: MERN Stack, MySQL, Bootstrap
 - 💡 Interests: Web Dev, UI/UX, Data Visualization, and EdTech
 - 🧠 Motto: "Code. Create. Communicate."
 
