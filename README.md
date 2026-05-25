@@ -147,7 +147,7 @@ Java-based intelligent telemetry diagnostics system for anomaly detection and pe
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://codeforces.com/profile/YOUR_HANDLE">
+  <a href="https://codeforces.com/profile/vaishali_modi">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
