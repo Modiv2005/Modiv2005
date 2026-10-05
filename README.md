@@ -10,7 +10,7 @@
 
 # 💫 About Me
 
-🎓 Third-year B.Tech Computer Science student passionate about building intelligent, scalable, and impactful software systems.
+🎓 Final Year B.Tech Computer Science student passionate about building intelligent, scalable, and impactful software systems.
 
 💡 I work at the intersection of **AI Engineering, Full Stack Development, Backend Systems, Machine Learning, and Product Development**.
 
